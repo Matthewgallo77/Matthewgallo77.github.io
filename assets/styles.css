@@ -450,17 +450,6 @@ a:focus-visible {
   text-transform: uppercase;
 }
 
-.notice {
-  padding: 18px 20px;
-  border-left: 4px solid var(--moss);
-  border-radius: 0 14px 14px 0;
-  background: var(--moss-soft);
-}
-
-.notice p:last-child {
-  margin-bottom: 0;
-}
-
 .faq-list {
   display: grid;
   gap: 12px;
