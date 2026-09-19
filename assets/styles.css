@@ -60,6 +60,7 @@ a:focus-visible, summary:focus-visible { outline: 3px solid #a46b19; outline-off
 .feature-card p { margin-bottom: 0; color: var(--secondary-ink); font-size: .93rem; }
 .pro-label { display: inline-block; padding: 2px 7px; margin-left: 3px; vertical-align: middle; border-radius: 5px; color: var(--moss); background: #e6ecdf; font-size: .62rem; letter-spacing: .02em; }
 .plan-note { max-width: 730px; margin: 20px 0 0; color: var(--secondary-ink); font-size: .8rem; }
+.report-note { max-width: 730px; margin: 8px 0 0; color: var(--moss); font-size: .8rem; }
 .relief-note { display: grid; grid-template-columns: 1fr 2fr; gap: 24px; align-items: start; margin-top: 34px; padding-top: 28px; border-top: 1px solid var(--hairline); }
 .relief-note h3 { margin: 0; font-size: 1rem; }
 .relief-note p { margin: 0; color: var(--secondary-ink); font-size: .88rem; }
